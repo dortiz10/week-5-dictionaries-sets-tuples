@@ -1,3 +1,4 @@
+# David Ortiz
 ##############################################################################################################
 # what are tuples?
 # exactly the same thing as an array only it is immutable, once you define the tuple,
@@ -38,9 +39,7 @@ my_tuple = (1, 2, 3, 2, 3, 1, 3, 2)
 
 my_tuple = (1, 2, 3, 4)
 
-
 #################################################sets######################################################
-
 
 # Join the following sets into one, called my_set_3:
 
@@ -48,12 +47,9 @@ my_tuple = (1, 2, 3, 4)
 
 {"three", 4, 5}
 
-
 # Remove a random item from the following set, using set methods.
 
 raffle = {"Rachel", "Monica", "Phoebe", "Joey", "Chandler", "Ross"}
-
-
 
 # Add the name Gunther to the following set, using set methods:
 
@@ -94,8 +90,6 @@ raffle = {"Rachel", "Monica", "Phoebe", "Joey", "Chandler", "Ross"}
 # Check if 17834/34 is greater than 87*56 and print the boolean result to the screen using print()
 
 # Check if the square root of 25 is equal to 5 and display the result (boolean) on the screen using print
-
-
 
 #############################################next week ################################################
 #dictionaries and  sets
