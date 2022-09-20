@@ -105,20 +105,17 @@ print(control)
 # Make a comparison that returns a boolean and store the result (True/False) in a variable called test
 
 test = 5 == 1*5
-print(type(test))
-print(test)
+print(test) #true
 
 # Check if 17834/34 is greater than 87*56 and print the boolean result to the screen using print()
 
 test2 = 17834/34 > 87*56
-print(type(test2))
-print(test2)
+print(test2) #false
 
 # Check if the square root of 25 is equal to 5 and display the result (boolean) on the screen using print
 
-test3 = 25^2 == 5
-print(type(test3))
-print(test3)
+import math
+print(math.sqrt(25) == 5)
 
 #############################################next week ################################################
 #dictionaries and  sets
